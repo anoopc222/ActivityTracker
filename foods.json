@@ -1,0 +1,5212 @@
+[
+  {
+    "name": "Banana",
+    "icon": "🍌",
+    "unit": "100g",
+    "calories": 69,
+    "protein": 0.7,
+    "carbs": 21,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Nendran Banana",
+    "icon": "🍌",
+    "unit": "100g",
+    "calories": 95,
+    "protein": 0.7,
+    "carbs": 25,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Apple",
+    "icon": "🍎",
+    "unit": "100g",
+    "calories": 45,
+    "protein": 0.7,
+    "carbs": 21,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Orange",
+    "icon": "🍊",
+    "unit": "100g",
+    "calories": 61,
+    "protein": 1.5,
+    "carbs": 19,
+    "fat": 0.2,
+    "category": "Fruits"
+  },
+  {
+    "name": "Mango",
+    "icon": "🥭",
+    "unit": "100g",
+    "calories": 71,
+    "protein": 1.5,
+    "carbs": 14,
+    "fat": 0.2,
+    "category": "Fruits"
+  },
+  {
+    "name": "Pineapple",
+    "icon": "🍍",
+    "unit": "100g",
+    "calories": 68,
+    "protein": 0.6,
+    "carbs": 25,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Papaya",
+    "icon": "🍈",
+    "unit": "100g",
+    "calories": 81,
+    "protein": 1.1,
+    "carbs": 15,
+    "fat": 0.1,
+    "category": "Fruits"
+  },
+  {
+    "name": "Guava",
+    "icon": "🍏",
+    "unit": "100g",
+    "calories": 93,
+    "protein": 1.4,
+    "carbs": 16,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Grapes",
+    "icon": "🍇",
+    "unit": "100g",
+    "calories": 65,
+    "protein": 0.5,
+    "carbs": 24,
+    "fat": 0.5,
+    "category": "Fruits"
+  },
+  {
+    "name": "Watermelon",
+    "icon": "🍉",
+    "unit": "100g",
+    "calories": 79,
+    "protein": 0.4,
+    "carbs": 14,
+    "fat": 0.2,
+    "category": "Fruits"
+  },
+  {
+    "name": "Muskmelon",
+    "icon": "🍈",
+    "unit": "100g",
+    "calories": 78,
+    "protein": 1.3,
+    "carbs": 21,
+    "fat": 0.5,
+    "category": "Fruits"
+  },
+  {
+    "name": "Pomegranate",
+    "icon": "🍎",
+    "unit": "100g",
+    "calories": 69,
+    "protein": 1.1,
+    "carbs": 13,
+    "fat": 0.1,
+    "category": "Fruits"
+  },
+  {
+    "name": "Sapota (Chikoo)",
+    "icon": "🍑",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 22,
+    "fat": 0.1,
+    "category": "Fruits"
+  },
+  {
+    "name": "Jackfruit",
+    "icon": "🍈",
+    "unit": "100g",
+    "calories": 45,
+    "protein": 0.5,
+    "carbs": 20,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Strawberry",
+    "icon": "🍓",
+    "unit": "100g",
+    "calories": 97,
+    "protein": 1.3,
+    "carbs": 25,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Blueberry",
+    "icon": "🫐",
+    "unit": "100g",
+    "calories": 89,
+    "protein": 0.4,
+    "carbs": 11,
+    "fat": 0.5,
+    "category": "Fruits"
+  },
+  {
+    "name": "Pear",
+    "icon": "🍐",
+    "unit": "100g",
+    "calories": 51,
+    "protein": 0.4,
+    "carbs": 24,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Peach",
+    "icon": "🍑",
+    "unit": "100g",
+    "calories": 100,
+    "protein": 0.7,
+    "carbs": 23,
+    "fat": 0.2,
+    "category": "Fruits"
+  },
+  {
+    "name": "Plum",
+    "icon": "🍑",
+    "unit": "100g",
+    "calories": 51,
+    "protein": 0.6,
+    "carbs": 16,
+    "fat": 0.1,
+    "category": "Fruits"
+  },
+  {
+    "name": "Kiwi",
+    "icon": "🥝",
+    "unit": "100g",
+    "calories": 58,
+    "protein": 0.7,
+    "carbs": 17,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Dragon Fruit",
+    "icon": "🐉",
+    "unit": "100g",
+    "calories": 71,
+    "protein": 0.9,
+    "carbs": 17,
+    "fat": 0.3,
+    "category": "Fruits"
+  },
+  {
+    "name": "Custard Apple",
+    "icon": "🍏",
+    "unit": "100g",
+    "calories": 78,
+    "protein": 0.4,
+    "carbs": 21,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Fig",
+    "icon": "🍈",
+    "unit": "100g",
+    "calories": 57,
+    "protein": 0.7,
+    "carbs": 19,
+    "fat": 0.5,
+    "category": "Fruits"
+  },
+  {
+    "name": "Dates",
+    "icon": "🌴",
+    "unit": "100g",
+    "calories": 80,
+    "protein": 0.8,
+    "carbs": 15,
+    "fat": 0.4,
+    "category": "Fruits"
+  },
+  {
+    "name": "Tender Coconut",
+    "icon": "🥥",
+    "unit": "100g",
+    "calories": 97,
+    "protein": 1.3,
+    "carbs": 25,
+    "fat": 0.1,
+    "category": "Fruits"
+  },
+  {
+    "name": "Potato",
+    "icon": "🥔",
+    "unit": "100g",
+    "calories": 45,
+    "protein": 3.6,
+    "carbs": 7,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Sweet Potato",
+    "icon": "🍠",
+    "unit": "100g",
+    "calories": 63,
+    "protein": 3.0,
+    "carbs": 4,
+    "fat": 0.2,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Tomato",
+    "icon": "🍅",
+    "unit": "100g",
+    "calories": 73,
+    "protein": 3.3,
+    "carbs": 8,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Onion",
+    "icon": "🧅",
+    "unit": "100g",
+    "calories": 71,
+    "protein": 2.0,
+    "carbs": 6,
+    "fat": 0.1,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Carrot",
+    "icon": "🥕",
+    "unit": "100g",
+    "calories": 42,
+    "protein": 2.3,
+    "carbs": 6,
+    "fat": 0.5,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Beetroot",
+    "icon": "🫚",
+    "unit": "100g",
+    "calories": 61,
+    "protein": 1.9,
+    "carbs": 10,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Beans",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 32,
+    "protein": 1.5,
+    "carbs": 10,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Cabbage",
+    "icon": "🥬",
+    "unit": "100g",
+    "calories": 52,
+    "protein": 1.5,
+    "carbs": 15,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Cauliflower",
+    "icon": "🥦",
+    "unit": "100g",
+    "calories": 68,
+    "protein": 2.5,
+    "carbs": 9,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Broccoli",
+    "icon": "🥦",
+    "unit": "100g",
+    "calories": 35,
+    "protein": 1.7,
+    "carbs": 14,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Spinach",
+    "icon": "🥬",
+    "unit": "100g",
+    "calories": 22,
+    "protein": 2.8,
+    "carbs": 9,
+    "fat": 0.5,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Cucumber",
+    "icon": "🥒",
+    "unit": "100g",
+    "calories": 72,
+    "protein": 1.5,
+    "carbs": 9,
+    "fat": 0.1,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Brinjal",
+    "icon": "🍆",
+    "unit": "100g",
+    "calories": 34,
+    "protein": 3.2,
+    "carbs": 10,
+    "fat": 0.5,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Pumpkin",
+    "icon": "🎃",
+    "unit": "100g",
+    "calories": 51,
+    "protein": 3.6,
+    "carbs": 6,
+    "fat": 0.5,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Bitter Gourd",
+    "icon": "🥒",
+    "unit": "100g",
+    "calories": 49,
+    "protein": 2.6,
+    "carbs": 14,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Snake Gourd",
+    "icon": "🥒",
+    "unit": "100g",
+    "calories": 37,
+    "protein": 1.4,
+    "carbs": 12,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Drumstick",
+    "icon": "🌿",
+    "unit": "100g",
+    "calories": 66,
+    "protein": 2.2,
+    "carbs": 13,
+    "fat": 0.2,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Green Peas",
+    "icon": "🫛",
+    "unit": "100g",
+    "calories": 20,
+    "protein": 2.2,
+    "carbs": 6,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Capsicum",
+    "icon": "🫑",
+    "unit": "100g",
+    "calories": 71,
+    "protein": 3.6,
+    "carbs": 6,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Ladies Finger",
+    "icon": "🫛",
+    "unit": "100g",
+    "calories": 68,
+    "protein": 3.8,
+    "carbs": 13,
+    "fat": 0.4,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Mushroom",
+    "icon": "🍄",
+    "unit": "100g",
+    "calories": 32,
+    "protein": 2.3,
+    "carbs": 6,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Radish",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 68,
+    "protein": 1.9,
+    "carbs": 15,
+    "fat": 0.1,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Turnip",
+    "icon": "🫚",
+    "unit": "100g",
+    "calories": 73,
+    "protein": 2.3,
+    "carbs": 5,
+    "fat": 0.3,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Zucchini",
+    "icon": "🥒",
+    "unit": "100g",
+    "calories": 34,
+    "protein": 2.7,
+    "carbs": 14,
+    "fat": 0.2,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Sambar",
+    "icon": "🍲",
+    "unit": "100g",
+    "calories": 118,
+    "protein": 5.4,
+    "carbs": 27,
+    "fat": 7.4,
+    "category": "Kerala"
+  },
+  {
+    "name": "Rasam",
+    "icon": "🍲",
+    "unit": "100g",
+    "calories": 133,
+    "protein": 5.6,
+    "carbs": 24,
+    "fat": 5.3,
+    "category": "Kerala"
+  },
+  {
+    "name": "Avial",
+    "icon": "🥘",
+    "unit": "100g",
+    "calories": 118,
+    "protein": 3.8,
+    "carbs": 16,
+    "fat": 8.2,
+    "category": "Kerala"
+  },
+  {
+    "name": "Thoran",
+    "icon": "🥗",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 2.3,
+    "carbs": 18,
+    "fat": 5.2,
+    "category": "Kerala"
+  },
+  {
+    "name": "Olan",
+    "icon": "🥘",
+    "unit": "100g",
+    "calories": 87,
+    "protein": 2.9,
+    "carbs": 27,
+    "fat": 7.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kaalan",
+    "icon": "🥘",
+    "unit": "100g",
+    "calories": 194,
+    "protein": 6.3,
+    "carbs": 30,
+    "fat": 3.2,
+    "category": "Kerala"
+  },
+  {
+    "name": "Erissery",
+    "icon": "🥘",
+    "unit": "100g",
+    "calories": 95,
+    "protein": 6.9,
+    "carbs": 20,
+    "fat": 2.6,
+    "category": "Kerala"
+  },
+  {
+    "name": "Pulissery",
+    "icon": "🥣",
+    "unit": "100g",
+    "calories": 180,
+    "protein": 5.6,
+    "carbs": 14,
+    "fat": 4.2,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kadala Curry",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 182,
+    "protein": 9.3,
+    "carbs": 16,
+    "fat": 2.6,
+    "category": "Kerala"
+  },
+  {
+    "name": "Green Gram Curry",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 194,
+    "protein": 3.4,
+    "carbs": 19,
+    "fat": 5.9,
+    "category": "Kerala"
+  },
+  {
+    "name": "Parippu Curry",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 166,
+    "protein": 4.4,
+    "carbs": 15,
+    "fat": 6.9,
+    "category": "Kerala"
+  },
+  {
+    "name": "Fish Curry Kerala",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 138,
+    "protein": 3.9,
+    "carbs": 18,
+    "fat": 5.8,
+    "category": "Kerala"
+  },
+  {
+    "name": "Beef Fry",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 188,
+    "protein": 4.7,
+    "carbs": 16,
+    "fat": 7.8,
+    "category": "Kerala"
+  },
+  {
+    "name": "Chicken Curry Kerala",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 106,
+    "protein": 8.1,
+    "carbs": 19,
+    "fat": 4.1,
+    "category": "Kerala"
+  },
+  {
+    "name": "Prawn Curry",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 175,
+    "protein": 9.9,
+    "carbs": 30,
+    "fat": 2.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Appam",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 187,
+    "protein": 5.8,
+    "carbs": 26,
+    "fat": 4.9,
+    "category": "Kerala"
+  },
+  {
+    "name": "Idiyappam",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 99,
+    "protein": 9.3,
+    "carbs": 23,
+    "fat": 6.3,
+    "category": "Kerala"
+  },
+  {
+    "name": "Puttu",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 76,
+    "protein": 8.6,
+    "carbs": 28,
+    "fat": 5.9,
+    "category": "Kerala"
+  },
+  {
+    "name": "Pathiri",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 123,
+    "protein": 2.3,
+    "carbs": 16,
+    "fat": 3.1,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kerala Parotta",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 85,
+    "protein": 10.0,
+    "carbs": 20,
+    "fat": 7.9,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kappa",
+    "icon": "🥔",
+    "unit": "100g",
+    "calories": 84,
+    "protein": 2.6,
+    "carbs": 16,
+    "fat": 5.8,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kappa Fish Curry",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 183,
+    "protein": 3.1,
+    "carbs": 29,
+    "fat": 2.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Chapati",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 194,
+    "protein": 3.5,
+    "carbs": 29,
+    "fat": 4.2,
+    "category": "Indian"
+  },
+  {
+    "name": "Roti",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 131,
+    "protein": 8.1,
+    "carbs": 31,
+    "fat": 10.9,
+    "category": "Indian"
+  },
+  {
+    "name": "Naan",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 224,
+    "protein": 4.5,
+    "carbs": 34,
+    "fat": 3.1,
+    "category": "Indian"
+  },
+  {
+    "name": "Butter Naan",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 128,
+    "protein": 6.4,
+    "carbs": 23,
+    "fat": 10.8,
+    "category": "Indian"
+  },
+  {
+    "name": "Dosa",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 81,
+    "protein": 11.3,
+    "carbs": 36,
+    "fat": 5.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Masala Dosa",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 245,
+    "protein": 5.5,
+    "carbs": 21,
+    "fat": 4.4,
+    "category": "Indian"
+  },
+  {
+    "name": "Idli",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 213,
+    "protein": 3.1,
+    "carbs": 27,
+    "fat": 9.2,
+    "category": "Indian"
+  },
+  {
+    "name": "Vada",
+    "icon": "🍩",
+    "unit": "100g",
+    "calories": 108,
+    "protein": 7.5,
+    "carbs": 32,
+    "fat": 6.3,
+    "category": "Indian"
+  },
+  {
+    "name": "Upma",
+    "icon": "🥣",
+    "unit": "100g",
+    "calories": 149,
+    "protein": 8.7,
+    "carbs": 28,
+    "fat": 9.6,
+    "category": "Indian"
+  },
+  {
+    "name": "Pongal",
+    "icon": "🥣",
+    "unit": "100g",
+    "calories": 103,
+    "protein": 10.1,
+    "carbs": 32,
+    "fat": 10.8,
+    "category": "Indian"
+  },
+  {
+    "name": "Poori",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 203,
+    "protein": 9.3,
+    "carbs": 33,
+    "fat": 3.8,
+    "category": "Indian"
+  },
+  {
+    "name": "Bhaji",
+    "icon": "🧅",
+    "unit": "100g",
+    "calories": 130,
+    "protein": 5.7,
+    "carbs": 33,
+    "fat": 10.3,
+    "category": "Indian"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 213,
+    "protein": 4.1,
+    "carbs": 18,
+    "fat": 10.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Dal Fry",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 235,
+    "protein": 7.1,
+    "carbs": 24,
+    "fat": 4.4,
+    "category": "Indian"
+  },
+  {
+    "name": "Dal Tadka",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 198,
+    "protein": 3.5,
+    "carbs": 27,
+    "fat": 10.2,
+    "category": "Indian"
+  },
+  {
+    "name": "Rajma",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 215,
+    "protein": 3.3,
+    "carbs": 30,
+    "fat": 3.7,
+    "category": "Indian"
+  },
+  {
+    "name": "Chole",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 106,
+    "protein": 10.2,
+    "carbs": 18,
+    "fat": 3.2,
+    "category": "Indian"
+  },
+  {
+    "name": "Jeera Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 104,
+    "protein": 11.5,
+    "carbs": 28,
+    "fat": 6.2,
+    "category": "Indian"
+  },
+  {
+    "name": "Ghee Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 116,
+    "protein": 11.1,
+    "carbs": 22,
+    "fat": 5.9,
+    "category": "Indian"
+  },
+  {
+    "name": "Curd Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 240,
+    "protein": 7.4,
+    "carbs": 22,
+    "fat": 4.3,
+    "category": "Indian"
+  },
+  {
+    "name": "Lemon Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 249,
+    "protein": 9.9,
+    "carbs": 32,
+    "fat": 10.7,
+    "category": "Indian"
+  },
+  {
+    "name": "Veg Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 137,
+    "protein": 10.3,
+    "carbs": 15,
+    "fat": 9.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Chicken Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 243,
+    "protein": 9.4,
+    "carbs": 33,
+    "fat": 10.1,
+    "category": "Indian"
+  },
+  {
+    "name": "Mutton Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 3.9,
+    "carbs": 33,
+    "fat": 3.1,
+    "category": "Indian"
+  },
+  {
+    "name": "Fried Rice",
+    "icon": "🍳",
+    "unit": "100g",
+    "calories": 120,
+    "protein": 5.6,
+    "carbs": 20,
+    "fat": 7.1,
+    "category": "Chinese"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "icon": "🍳",
+    "unit": "100g",
+    "calories": 169,
+    "protein": 5.0,
+    "carbs": 31,
+    "fat": 10.5,
+    "category": "Chinese"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "icon": "🍳",
+    "unit": "100g",
+    "calories": 186,
+    "protein": 9.6,
+    "carbs": 22,
+    "fat": 10.4,
+    "category": "Chinese"
+  },
+  {
+    "name": "Noodles",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 176,
+    "protein": 13.0,
+    "carbs": 34,
+    "fat": 6.2,
+    "category": "Chinese"
+  },
+  {
+    "name": "Hakka Noodles",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 249,
+    "protein": 10.3,
+    "carbs": 16,
+    "fat": 11.8,
+    "category": "Chinese"
+  },
+  {
+    "name": "Schezwan Noodles",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 237,
+    "protein": 15.0,
+    "carbs": 34,
+    "fat": 7.1,
+    "category": "Chinese"
+  },
+  {
+    "name": "Chilli Chicken",
+    "icon": "🌶️",
+    "unit": "100g",
+    "calories": 271,
+    "protein": 14.2,
+    "carbs": 34,
+    "fat": 14.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Gobi Manchurian",
+    "icon": "🥦",
+    "unit": "100g",
+    "calories": 149,
+    "protein": 10.2,
+    "carbs": 23,
+    "fat": 5.3,
+    "category": "Chinese"
+  },
+  {
+    "name": "Paneer Chilli",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 252,
+    "protein": 7.3,
+    "carbs": 30,
+    "fat": 6.7,
+    "category": "Chinese"
+  },
+  {
+    "name": "Spring Roll",
+    "icon": "🌯",
+    "unit": "100g",
+    "calories": 221,
+    "protein": 15.0,
+    "carbs": 17,
+    "fat": 9.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Momos",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 207,
+    "protein": 7.8,
+    "carbs": 27,
+    "fat": 7.6,
+    "category": "Chinese"
+  },
+  {
+    "name": "Hot and Sour Soup",
+    "icon": "🍵",
+    "unit": "100g",
+    "calories": 158,
+    "protein": 12.5,
+    "carbs": 35,
+    "fat": 6.6,
+    "category": "Chinese"
+  },
+  {
+    "name": "Manchow Soup",
+    "icon": "🍵",
+    "unit": "100g",
+    "calories": 234,
+    "protein": 6.8,
+    "carbs": 28,
+    "fat": 5.8,
+    "category": "Chinese"
+  },
+  {
+    "name": "Chicken Breast",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 199,
+    "protein": 15.2,
+    "carbs": 6,
+    "fat": 14.0,
+    "category": "Protein"
+  },
+  {
+    "name": "Chicken Thigh",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 19.1,
+    "carbs": 7,
+    "fat": 12.5,
+    "category": "Protein"
+  },
+  {
+    "name": "Chicken Wings",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 139,
+    "protein": 16.2,
+    "carbs": 1,
+    "fat": 12.1,
+    "category": "Protein"
+  },
+  {
+    "name": "Beef",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 158,
+    "protein": 18.0,
+    "carbs": 7,
+    "fat": 17.9,
+    "category": "Protein"
+  },
+  {
+    "name": "Mutton",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 216,
+    "protein": 26.9,
+    "carbs": 6,
+    "fat": 4.7,
+    "category": "Protein"
+  },
+  {
+    "name": "Pork",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 152,
+    "protein": 15.2,
+    "carbs": 2,
+    "fat": 6.2,
+    "category": "Protein"
+  },
+  {
+    "name": "Duck",
+    "icon": "🦆",
+    "unit": "100g",
+    "calories": 270,
+    "protein": 29.7,
+    "carbs": 4,
+    "fat": 16.7,
+    "category": "Protein"
+  },
+  {
+    "name": "Turkey",
+    "icon": "🦃",
+    "unit": "100g",
+    "calories": 277,
+    "protein": 24.3,
+    "carbs": 8,
+    "fat": 17.3,
+    "category": "Protein"
+  },
+  {
+    "name": "Tuna",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 16.8,
+    "carbs": 1,
+    "fat": 8.4,
+    "category": "Protein"
+  },
+  {
+    "name": "Sardine",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 247,
+    "protein": 21.3,
+    "carbs": 2,
+    "fat": 14.3,
+    "category": "Protein"
+  },
+  {
+    "name": "Salmon",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 221,
+    "protein": 13.4,
+    "carbs": 2,
+    "fat": 14.1,
+    "category": "Protein"
+  },
+  {
+    "name": "Prawns",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 211,
+    "protein": 10.6,
+    "carbs": 0,
+    "fat": 10.0,
+    "category": "Protein"
+  },
+  {
+    "name": "Egg Whole",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 11.4,
+    "carbs": 6,
+    "fat": 5.3,
+    "category": "Protein"
+  },
+  {
+    "name": "Egg White",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 131,
+    "protein": 21.5,
+    "carbs": 7,
+    "fat": 5.3,
+    "category": "Protein"
+  },
+  {
+    "name": "Paneer",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 132,
+    "protein": 11.4,
+    "carbs": 10,
+    "fat": 10.8,
+    "category": "Protein"
+  },
+  {
+    "name": "Tofu",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 169,
+    "protein": 22.3,
+    "carbs": 1,
+    "fat": 16.2,
+    "category": "Protein"
+  },
+  {
+    "name": "Soya Chunks",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 173,
+    "protein": 19.7,
+    "carbs": 0,
+    "fat": 4.8,
+    "category": "Protein"
+  },
+  {
+    "name": "White Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 133,
+    "protein": 6.7,
+    "carbs": 28,
+    "fat": 1.3,
+    "category": "Grains"
+  },
+  {
+    "name": "Matta Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 117,
+    "protein": 4.1,
+    "carbs": 39,
+    "fat": 4.3,
+    "category": "Grains"
+  },
+  {
+    "name": "Brown Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 101,
+    "protein": 3.0,
+    "carbs": 40,
+    "fat": 2.4,
+    "category": "Grains"
+  },
+  {
+    "name": "Boiled Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 103,
+    "protein": 5.1,
+    "carbs": 34,
+    "fat": 1.3,
+    "category": "Grains"
+  },
+  {
+    "name": "Bread White",
+    "icon": "🍞",
+    "unit": "100g",
+    "calories": 99,
+    "protein": 3.5,
+    "carbs": 38,
+    "fat": 1.4,
+    "category": "Grains"
+  },
+  {
+    "name": "Bread Brown",
+    "icon": "🍞",
+    "unit": "100g",
+    "calories": 134,
+    "protein": 2.3,
+    "carbs": 16,
+    "fat": 4.0,
+    "category": "Grains"
+  },
+  {
+    "name": "Oats",
+    "icon": "🥣",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 4.0,
+    "carbs": 16,
+    "fat": 1.1,
+    "category": "Grains"
+  },
+  {
+    "name": "Ragi",
+    "icon": "🌾",
+    "unit": "100g",
+    "calories": 146,
+    "protein": 7.5,
+    "carbs": 24,
+    "fat": 4.5,
+    "category": "Grains"
+  },
+  {
+    "name": "Wheat Flour",
+    "icon": "🌾",
+    "unit": "100g",
+    "calories": 101,
+    "protein": 4.7,
+    "carbs": 30,
+    "fat": 3.5,
+    "category": "Grains"
+  },
+  {
+    "name": "Maida",
+    "icon": "🌾",
+    "unit": "100g",
+    "calories": 134,
+    "protein": 3.8,
+    "carbs": 20,
+    "fat": 2.6,
+    "category": "Grains"
+  },
+  {
+    "name": "Corn",
+    "icon": "🌽",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 2.7,
+    "carbs": 26,
+    "fat": 3.6,
+    "category": "Grains"
+  },
+  {
+    "name": "Barley",
+    "icon": "🌾",
+    "unit": "100g",
+    "calories": 170,
+    "protein": 6.2,
+    "carbs": 38,
+    "fat": 4.0,
+    "category": "Grains"
+  },
+  {
+    "name": "Rohu (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 97,
+    "protein": 16.6,
+    "carbs": 0.0,
+    "fat": 3.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Katla (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 111,
+    "protein": 18.5,
+    "carbs": 0.0,
+    "fat": 4.2,
+    "category": "Fish"
+  },
+  {
+    "name": "Tilapia (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 96,
+    "protein": 20.1,
+    "carbs": 0.0,
+    "fat": 1.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Pomfret / Avoli (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 100,
+    "protein": 17.8,
+    "carbs": 0.0,
+    "fat": 3.1,
+    "category": "Fish"
+  },
+  {
+    "name": "King Fish / Neymeen (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 121,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 4.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Seer Fish / Vanjaram (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 119,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 4.5,
+    "category": "Fish"
+  },
+  {
+    "name": "Mackerel / Ayala (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 158,
+    "protein": 18.6,
+    "carbs": 0.0,
+    "fat": 9.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Sardine / Mathi (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 126,
+    "protein": 20.9,
+    "carbs": 0.0,
+    "fat": 4.9,
+    "category": "Fish"
+  },
+  {
+    "name": "Pearl Spot / Karimeen (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 107,
+    "protein": 18.5,
+    "carbs": 0.0,
+    "fat": 3.6,
+    "category": "Fish"
+  },
+  {
+    "name": "Swordfish (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 121,
+    "protein": 19.8,
+    "carbs": 0.0,
+    "fat": 4.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Red Snapper (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 100,
+    "protein": 20.5,
+    "carbs": 0.0,
+    "fat": 1.3,
+    "category": "Fish"
+  },
+  {
+    "name": "Grouper / Kalava (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 92,
+    "protein": 19.4,
+    "carbs": 0.0,
+    "fat": 1.1,
+    "category": "Fish"
+  },
+  {
+    "name": "Catfish / Thedu (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 95,
+    "protein": 16.4,
+    "carbs": 0.0,
+    "fat": 3.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Barracuda / Sheela (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 110,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 2.5,
+    "category": "Fish"
+  },
+  {
+    "name": "Squid / Koonthal (Raw)",
+    "icon": "🦑",
+    "unit": "100g",
+    "calories": 92,
+    "protein": 15.6,
+    "carbs": 3.1,
+    "fat": 1.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Cuttlefish (Raw)",
+    "icon": "🦑",
+    "unit": "100g",
+    "calories": 79,
+    "protein": 16.2,
+    "carbs": 0.8,
+    "fat": 0.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Octopus (Raw)",
+    "icon": "🐙",
+    "unit": "100g",
+    "calories": 82,
+    "protein": 14.9,
+    "carbs": 2.2,
+    "fat": 1.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Crab / Njandu (Raw)",
+    "icon": "🦀",
+    "unit": "100g",
+    "calories": 83,
+    "protein": 18.1,
+    "carbs": 0.0,
+    "fat": 1.1,
+    "category": "Fish"
+  },
+  {
+    "name": "Mussel / Kallumakkaya (Raw)",
+    "icon": "🦪",
+    "unit": "100g",
+    "calories": 86,
+    "protein": 11.9,
+    "carbs": 3.7,
+    "fat": 2.2,
+    "category": "Fish"
+  },
+  {
+    "name": "Clam / Kakka (Raw)",
+    "icon": "🦪",
+    "unit": "100g",
+    "calories": 74,
+    "protein": 12.8,
+    "carbs": 2.7,
+    "fat": 1.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Lobster (Raw)",
+    "icon": "🦞",
+    "unit": "100g",
+    "calories": 89,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 0.9,
+    "category": "Fish"
+  },
+  {
+    "name": "Tuna (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 108,
+    "protein": 23.3,
+    "carbs": 0.0,
+    "fat": 1.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Tuna (Canned in Water)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 116,
+    "protein": 25.5,
+    "carbs": 0.0,
+    "fat": 0.8,
+    "category": "Fish"
+  },
+  {
+    "name": "Tuna (Canned in Oil)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 198,
+    "protein": 28.9,
+    "carbs": 0.0,
+    "fat": 9.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Salmon (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 142,
+    "protein": 19.8,
+    "carbs": 0.0,
+    "fat": 6.3,
+    "category": "Fish"
+  },
+  {
+    "name": "Salmon (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 182,
+    "protein": 25.4,
+    "carbs": 0.0,
+    "fat": 8.1,
+    "category": "Fish"
+  },
+  {
+    "name": "Cod (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 82,
+    "protein": 17.8,
+    "carbs": 0.0,
+    "fat": 0.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Halibut (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 91,
+    "protein": 17.7,
+    "carbs": 0.0,
+    "fat": 1.9,
+    "category": "Fish"
+  },
+  {
+    "name": "Hilsa / Ilish (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 273,
+    "protein": 21.8,
+    "carbs": 0.0,
+    "fat": 19.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Bombay Duck / Bombil (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 55,
+    "protein": 11.3,
+    "carbs": 0.0,
+    "fat": 0.9,
+    "category": "Fish"
+  },
+  {
+    "name": "Sole Fish (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 91,
+    "protein": 18.8,
+    "carbs": 0.0,
+    "fat": 1.2,
+    "category": "Fish"
+  },
+  {
+    "name": "Anchovy / Netholi (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 131,
+    "protein": 20.4,
+    "carbs": 0.0,
+    "fat": 4.8,
+    "category": "Fish"
+  },
+  {
+    "name": "Horse Mackerel / Aykoora (Raw)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 105,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 3.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Prawns (Raw)",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 85,
+    "protein": 20.1,
+    "carbs": 0.9,
+    "fat": 0.5,
+    "category": "Fish"
+  },
+  {
+    "name": "Prawns (Boiled)",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 99,
+    "protein": 21.3,
+    "carbs": 0.0,
+    "fat": 1.1,
+    "category": "Fish"
+  },
+  {
+    "name": "Prawns (Grilled/Air Fryer)",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 105,
+    "protein": 22.8,
+    "carbs": 0.0,
+    "fat": 1.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Tiger Prawns (Raw)",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 89,
+    "protein": 20.3,
+    "carbs": 0.0,
+    "fat": 0.9,
+    "category": "Fish"
+  },
+  {
+    "name": "Shrimp (Raw)",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 85,
+    "protein": 20.1,
+    "carbs": 0.9,
+    "fat": 0.5,
+    "category": "Fish"
+  },
+  {
+    "name": "Pomfret (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 130,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 4.6,
+    "category": "Fish"
+  },
+  {
+    "name": "Pomfret (Air Fryer)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 125,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 4.2,
+    "category": "Fish"
+  },
+  {
+    "name": "Mackerel (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 200,
+    "protein": 22.0,
+    "carbs": 0.0,
+    "fat": 12.0,
+    "category": "Fish"
+  },
+  {
+    "name": "Sardine (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 160,
+    "protein": 24.0,
+    "carbs": 0.0,
+    "fat": 7.0,
+    "category": "Fish"
+  },
+  {
+    "name": "King Fish (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 150,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "category": "Fish"
+  },
+  {
+    "name": "King Fish (Air Fryer)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 5.5,
+    "category": "Fish"
+  },
+  {
+    "name": "Tilapia (Grilled)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 128,
+    "protein": 26.2,
+    "carbs": 0.0,
+    "fat": 2.7,
+    "category": "Fish"
+  },
+  {
+    "name": "Tilapia (Air Fryer)",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 122,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 2.4,
+    "category": "Fish"
+  },
+  {
+    "name": "Beef (Raw, Lean)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 136,
+    "protein": 21.4,
+    "carbs": 0.0,
+    "fat": 5.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Beef (Boiled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 214,
+    "protein": 30.6,
+    "carbs": 0.0,
+    "fat": 9.7,
+    "category": "Meat"
+  },
+  {
+    "name": "Beef (Grilled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 218,
+    "protein": 31.0,
+    "carbs": 0.0,
+    "fat": 9.5,
+    "category": "Meat"
+  },
+  {
+    "name": "Beef (Air Fryer)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 205,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fat": 8.7,
+    "category": "Meat"
+  },
+  {
+    "name": "Beef Mince (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 254,
+    "protein": 17.2,
+    "carbs": 0.0,
+    "fat": 20.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Beef Mince (Cooked)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 298,
+    "protein": 26.1,
+    "carbs": 0.0,
+    "fat": 20.7,
+    "category": "Meat"
+  },
+  {
+    "name": "Mutton / Lamb (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 17.1,
+    "carbs": 0.0,
+    "fat": 8.8,
+    "category": "Meat"
+  },
+  {
+    "name": "Mutton (Boiled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 246,
+    "protein": 28.6,
+    "carbs": 0.0,
+    "fat": 13.8,
+    "category": "Meat"
+  },
+  {
+    "name": "Mutton (Grilled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 258,
+    "protein": 28.0,
+    "carbs": 0.0,
+    "fat": 16.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Mutton (Air Fryer)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 240,
+    "protein": 27.5,
+    "carbs": 0.0,
+    "fat": 14.2,
+    "category": "Meat"
+  },
+  {
+    "name": "Pork (Raw, Lean)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 21.3,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Pork (Grilled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 197,
+    "protein": 27.0,
+    "carbs": 0.0,
+    "fat": 9.4,
+    "category": "Meat"
+  },
+  {
+    "name": "Pork (Air Fryer)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 26.5,
+    "carbs": 0.0,
+    "fat": 8.5,
+    "category": "Meat"
+  },
+  {
+    "name": "Pork Belly (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 518,
+    "protein": 9.3,
+    "carbs": 0.0,
+    "fat": 53.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Pork Belly (Grilled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 395,
+    "protein": 17.8,
+    "carbs": 0.0,
+    "fat": 35.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Bacon (Grilled)",
+    "icon": "🥓",
+    "unit": "100g",
+    "calories": 541,
+    "protein": 37.0,
+    "carbs": 1.4,
+    "fat": 41.8,
+    "category": "Meat"
+  },
+  {
+    "name": "Bacon (Air Fryer)",
+    "icon": "🥓",
+    "unit": "100g",
+    "calories": 430,
+    "protein": 34.0,
+    "carbs": 1.0,
+    "fat": 32.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Ham (Cooked)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 145,
+    "protein": 21.3,
+    "carbs": 1.5,
+    "fat": 5.5,
+    "category": "Meat"
+  },
+  {
+    "name": "Sausage Pork (Grilled)",
+    "icon": "🌭",
+    "unit": "100g",
+    "calories": 301,
+    "protein": 12.0,
+    "carbs": 2.1,
+    "fat": 26.5,
+    "category": "Meat"
+  },
+  {
+    "name": "Salami",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 336,
+    "protein": 22.0,
+    "carbs": 2.0,
+    "fat": 27.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Veal (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 105,
+    "protein": 19.7,
+    "carbs": 0.0,
+    "fat": 2.8,
+    "category": "Meat"
+  },
+  {
+    "name": "Veal (Grilled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 172,
+    "protein": 31.9,
+    "carbs": 0.0,
+    "fat": 4.4,
+    "category": "Meat"
+  },
+  {
+    "name": "Rabbit (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 114,
+    "protein": 20.1,
+    "carbs": 0.0,
+    "fat": 2.9,
+    "category": "Meat"
+  },
+  {
+    "name": "Venison / Deer (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 120,
+    "protein": 22.9,
+    "carbs": 0.0,
+    "fat": 2.4,
+    "category": "Meat"
+  },
+  {
+    "name": "Goat (Raw)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 109,
+    "protein": 20.6,
+    "carbs": 0.0,
+    "fat": 2.3,
+    "category": "Meat"
+  },
+  {
+    "name": "Goat (Boiled)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 162,
+    "protein": 27.5,
+    "carbs": 0.0,
+    "fat": 5.3,
+    "category": "Meat"
+  },
+  {
+    "name": "Quail (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 134,
+    "protein": 21.8,
+    "carbs": 0.0,
+    "fat": 4.5,
+    "category": "Meat"
+  },
+  {
+    "name": "Duck (Raw)",
+    "icon": "🦆",
+    "unit": "100g",
+    "calories": 135,
+    "protein": 18.3,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "category": "Meat"
+  },
+  {
+    "name": "Duck (Roasted)",
+    "icon": "🦆",
+    "unit": "100g",
+    "calories": 201,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 11.2,
+    "category": "Meat"
+  },
+  {
+    "name": "Chicken Breast (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 120,
+    "protein": 22.5,
+    "carbs": 0.0,
+    "fat": 2.6,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Breast (Boiled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 150,
+    "protein": 28.6,
+    "carbs": 0.0,
+    "fat": 3.1,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Breast (Grilled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 165,
+    "protein": 31.0,
+    "carbs": 0.0,
+    "fat": 3.6,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Breast (Air Fryer)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 158,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fat": 3.2,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Thigh (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 119,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 5.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Thigh (Boiled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 179,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 8.9,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Thigh (Grilled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 191,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 9.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Thigh (Air Fryer)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 177,
+    "protein": 24.0,
+    "carbs": 0.0,
+    "fat": 8.7,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Leg / Drumstick (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 120,
+    "protein": 18.1,
+    "carbs": 0.0,
+    "fat": 4.8,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Leg (Boiled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 172,
+    "protein": 24.2,
+    "carbs": 0.0,
+    "fat": 7.9,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Leg (Grilled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 8.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Leg (Air Fryer)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 170,
+    "protein": 25.2,
+    "carbs": 0.0,
+    "fat": 7.6,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Wings (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 203,
+    "protein": 18.3,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Wings (Grilled)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 240,
+    "protein": 26.6,
+    "carbs": 0.0,
+    "fat": 14.3,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Wings (Air Fryer)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 222,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 13.0,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Back (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 225,
+    "protein": 16.0,
+    "carbs": 0.0,
+    "fat": 17.9,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Neck (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 192,
+    "protein": 17.6,
+    "carbs": 0.0,
+    "fat": 12.9,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Liver (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 119,
+    "protein": 16.9,
+    "carbs": 0.9,
+    "fat": 4.8,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Liver (Cooked)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 167,
+    "protein": 24.5,
+    "carbs": 0.9,
+    "fat": 6.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Gizzard (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 94,
+    "protein": 17.7,
+    "carbs": 0.0,
+    "fat": 2.1,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Gizzard (Cooked)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 154,
+    "protein": 26.6,
+    "carbs": 0.0,
+    "fat": 4.8,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Keema / Mince (Raw)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 17.4,
+    "carbs": 0.0,
+    "fat": 7.9,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Keema (Cooked)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 196,
+    "protein": 24.0,
+    "carbs": 2.0,
+    "fat": 9.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Whole Chicken (Roasted)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 215,
+    "protein": 27.3,
+    "carbs": 0.0,
+    "fat": 11.1,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Skin (Roasted)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 466,
+    "protein": 20.4,
+    "carbs": 0.0,
+    "fat": 41.2,
+    "category": "Chicken"
+  },
+  {
+    "name": "Turkey Breast (Raw)",
+    "icon": "🦃",
+    "unit": "100g",
+    "calories": 104,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 0.7,
+    "category": "Chicken"
+  },
+  {
+    "name": "Turkey Breast (Grilled)",
+    "icon": "🦃",
+    "unit": "100g",
+    "calories": 135,
+    "protein": 29.0,
+    "carbs": 0.0,
+    "fat": 1.5,
+    "category": "Chicken"
+  },
+  {
+    "name": "Egg Whole (Raw)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 12.6,
+    "carbs": 0.7,
+    "fat": 9.5,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg Whole (Boiled)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 12.6,
+    "carbs": 1.1,
+    "fat": 10.6,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg Whole (Scrambled)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 149,
+    "protein": 9.9,
+    "carbs": 2.2,
+    "fat": 11.1,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg Whole (Poached)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 143,
+    "protein": 12.6,
+    "carbs": 0.7,
+    "fat": 9.5,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg White (Raw)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 52,
+    "protein": 10.9,
+    "carbs": 0.7,
+    "fat": 0.2,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg White (Boiled)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 52,
+    "protein": 10.9,
+    "carbs": 0.7,
+    "fat": 0.2,
+    "category": "Eggs"
+  },
+  {
+    "name": "Egg Yolk (Raw)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 322,
+    "protein": 15.9,
+    "carbs": 3.6,
+    "fat": 26.5,
+    "category": "Eggs"
+  },
+  {
+    "name": "Duck Egg (Raw)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 12.8,
+    "carbs": 1.5,
+    "fat": 13.8,
+    "category": "Eggs"
+  },
+  {
+    "name": "Quail Egg (Raw)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 158,
+    "protein": 13.1,
+    "carbs": 0.4,
+    "fat": 11.1,
+    "category": "Eggs"
+  },
+  {
+    "name": "Milk Full Fat (Generic)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 61,
+    "protein": 3.2,
+    "carbs": 4.8,
+    "fat": 3.3,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milk Toned (Generic)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.0,
+    "carbs": 4.5,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milk Skimmed (Generic)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 35,
+    "protein": 3.5,
+    "carbs": 5.0,
+    "fat": 0.1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milk Double Toned (Generic)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 38,
+    "protein": 3.2,
+    "carbs": 4.8,
+    "fat": 0.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Nandini Full Cream Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 61,
+    "protein": 3.5,
+    "carbs": 4.8,
+    "fat": 3.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Nandini Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.2,
+    "carbs": 4.6,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Nandini Skimmed Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 35,
+    "protein": 3.5,
+    "carbs": 5.0,
+    "fat": 0.1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Nandini Double Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 38,
+    "protein": 3.2,
+    "carbs": 4.8,
+    "fat": 0.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Gold Full Cream Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 62,
+    "protein": 3.5,
+    "carbs": 4.5,
+    "fat": 3.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Taaza Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.0,
+    "carbs": 4.6,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Slim & Trim Skimmed Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 35,
+    "protein": 3.5,
+    "carbs": 5.1,
+    "fat": 0.1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Shakti Standardised Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 58,
+    "protein": 3.2,
+    "carbs": 4.6,
+    "fat": 3.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Dahi (Curd)",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 60,
+    "protein": 3.1,
+    "carbs": 4.5,
+    "fat": 3.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Butter",
+    "icon": "🧈",
+    "unit": "100g",
+    "calories": 717,
+    "protein": 0.5,
+    "carbs": 0.0,
+    "fat": 81.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Cheese Slice",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 280,
+    "protein": 19.0,
+    "carbs": 5.0,
+    "fat": 20.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Amul Fresh Cream",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 200,
+    "protein": 2.5,
+    "carbs": 3.5,
+    "fat": 20.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Heritage Good Life Full Cream Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 62,
+    "protein": 3.5,
+    "carbs": 4.5,
+    "fat": 3.6,
+    "category": "Dairy"
+  },
+  {
+    "name": "Heritage Good Life Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.0,
+    "carbs": 4.6,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Heritage Good Life Skimmed Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 35,
+    "protein": 3.5,
+    "carbs": 5.0,
+    "fat": 0.1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milky Mist Full Cream Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 61,
+    "protein": 3.3,
+    "carbs": 4.6,
+    "fat": 3.4,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milky Mist Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.1,
+    "carbs": 4.5,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milky Mist Paneer",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 265,
+    "protein": 18.3,
+    "carbs": 4.0,
+    "fat": 20.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Milky Mist Dahi",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 58,
+    "protein": 3.2,
+    "carbs": 4.4,
+    "fat": 2.8,
+    "category": "Dairy"
+  },
+  {
+    "name": "Sapiens Full Cream Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 62,
+    "protein": 3.5,
+    "carbs": 4.6,
+    "fat": 3.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Sapiens Toned Milk",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 44,
+    "protein": 3.0,
+    "carbs": 4.5,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Curd / Dahi (Homemade)",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 60,
+    "protein": 3.1,
+    "carbs": 4.5,
+    "fat": 3.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Greek Yogurt (Plain)",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 97,
+    "protein": 9.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Buttermilk (Plain)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 40,
+    "protein": 3.3,
+    "carbs": 4.8,
+    "fat": 0.9,
+    "category": "Dairy"
+  },
+  {
+    "name": "Ghee",
+    "icon": "🧈",
+    "unit": "100g",
+    "calories": 900,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.7,
+    "category": "Dairy"
+  },
+  {
+    "name": "Butter (Salted)",
+    "icon": "🧈",
+    "unit": "100g",
+    "calories": 717,
+    "protein": 0.9,
+    "carbs": 0.1,
+    "fat": 81.1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Paneer (Low Fat)",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 175,
+    "protein": 14.0,
+    "carbs": 5.0,
+    "fat": 11.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Cream Cheese",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 342,
+    "protein": 6.2,
+    "carbs": 4.1,
+    "fat": 33.8,
+    "category": "Dairy"
+  },
+  {
+    "name": "Whipping Cream",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 345,
+    "protein": 2.8,
+    "carbs": 2.8,
+    "fat": 35.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Condensed Milk (Sweetened)",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 321,
+    "protein": 7.9,
+    "carbs": 54.4,
+    "fat": 8.7,
+    "category": "Dairy"
+  },
+  {
+    "name": "Skimmed Milk Powder",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 362,
+    "protein": 36.2,
+    "carbs": 52.0,
+    "fat": 0.7,
+    "category": "Dairy"
+  },
+  {
+    "name": "Full Cream Milk Powder",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 496,
+    "protein": 26.3,
+    "carbs": 38.6,
+    "fat": 26.3,
+    "category": "Dairy"
+  },
+  {
+    "name": "Whey Protein Isolate",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 370,
+    "protein": 90.0,
+    "carbs": 3.0,
+    "fat": 1.0,
+    "category": "Dairy"
+  },
+  {
+    "name": "Casein Protein",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 357,
+    "protein": 83.0,
+    "carbs": 5.0,
+    "fat": 1.5,
+    "category": "Dairy"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 152,
+    "protein": 13.5,
+    "carbs": 8.5,
+    "fat": 7.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Sweet & Sour Pork",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 181,
+    "protein": 10.5,
+    "carbs": 20.0,
+    "fat": 7.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Peking Duck",
+    "icon": "🦆",
+    "unit": "100g",
+    "calories": 332,
+    "protein": 17.5,
+    "carbs": 5.0,
+    "fat": 27.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Wonton Soup",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 60,
+    "protein": 4.2,
+    "carbs": 7.0,
+    "fat": 1.5,
+    "category": "Chinese"
+  },
+  {
+    "name": "Dim Sum (Pork)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 145,
+    "protein": 8.3,
+    "carbs": 13.0,
+    "fat": 6.3,
+    "category": "Chinese"
+  },
+  {
+    "name": "Char Siu (BBQ Pork)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 271,
+    "protein": 21.0,
+    "carbs": 16.0,
+    "fat": 13.2,
+    "category": "Chinese"
+  },
+  {
+    "name": "Mapo Tofu",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 79,
+    "protein": 5.2,
+    "carbs": 4.5,
+    "fat": 4.8,
+    "category": "Chinese"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "icon": "🍳",
+    "unit": "100g",
+    "calories": 163,
+    "protein": 5.2,
+    "carbs": 26.0,
+    "fat": 5.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Beef & Broccoli",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 105,
+    "protein": 9.0,
+    "carbs": 7.0,
+    "fat": 4.5,
+    "category": "Chinese"
+  },
+  {
+    "name": "Lo Mein Noodles",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 141,
+    "protein": 5.5,
+    "carbs": 21.0,
+    "fat": 4.2,
+    "category": "Chinese"
+  },
+  {
+    "name": "Dumplings (Steamed)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 112,
+    "protein": 6.0,
+    "carbs": 16.0,
+    "fat": 3.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Dumplings (Fried)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 196,
+    "protein": 7.5,
+    "carbs": 22.0,
+    "fat": 9.0,
+    "category": "Chinese"
+  },
+  {
+    "name": "Bok Choy Stir Fry",
+    "icon": "🥬",
+    "unit": "100g",
+    "calories": 35,
+    "protein": 1.8,
+    "carbs": 4.5,
+    "fat": 1.5,
+    "category": "Chinese"
+  },
+  {
+    "name": "Sushi Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 166,
+    "protein": 3.5,
+    "carbs": 35.0,
+    "fat": 0.3,
+    "category": "Japanese"
+  },
+  {
+    "name": "Salmon Nigiri",
+    "icon": "🍣",
+    "unit": "100g",
+    "calories": 154,
+    "protein": 9.3,
+    "carbs": 18.5,
+    "fat": 4.2,
+    "category": "Japanese"
+  },
+  {
+    "name": "Tuna Nigiri",
+    "icon": "🍣",
+    "unit": "100g",
+    "calories": 144,
+    "protein": 11.0,
+    "carbs": 18.5,
+    "fat": 1.8,
+    "category": "Japanese"
+  },
+  {
+    "name": "California Roll",
+    "icon": "🍣",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 5.3,
+    "carbs": 24.0,
+    "fat": 4.2,
+    "category": "Japanese"
+  },
+  {
+    "name": "Miso Soup",
+    "icon": "🍵",
+    "unit": "100g",
+    "calories": 40,
+    "protein": 2.2,
+    "carbs": 5.5,
+    "fat": 1.2,
+    "category": "Japanese"
+  },
+  {
+    "name": "Ramen (Pork, with broth)",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 70,
+    "protein": 5.0,
+    "carbs": 7.5,
+    "fat": 2.3,
+    "category": "Japanese"
+  },
+  {
+    "name": "Tempura Prawn",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 9.5,
+    "carbs": 17.0,
+    "fat": 9.0,
+    "category": "Japanese"
+  },
+  {
+    "name": "Edamame (Boiled)",
+    "icon": "🫛",
+    "unit": "100g",
+    "calories": 121,
+    "protein": 11.9,
+    "carbs": 8.9,
+    "fat": 5.2,
+    "category": "Japanese"
+  },
+  {
+    "name": "Gyoza (Pan Fried)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 195,
+    "protein": 8.2,
+    "carbs": 20.0,
+    "fat": 9.0,
+    "category": "Japanese"
+  },
+  {
+    "name": "Tonkatsu (Pork Cutlet)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 267,
+    "protein": 17.5,
+    "carbs": 20.5,
+    "fat": 13.0,
+    "category": "Japanese"
+  },
+  {
+    "name": "Yakitori",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 18.0,
+    "carbs": 5.5,
+    "fat": 6.0,
+    "category": "Japanese"
+  },
+  {
+    "name": "Teriyaki Chicken",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 175,
+    "protein": 20.5,
+    "carbs": 8.5,
+    "fat": 6.5,
+    "category": "Japanese"
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 218,
+    "protein": 22.0,
+    "carbs": 7.0,
+    "fat": 11.5,
+    "category": "Japanese"
+  },
+  {
+    "name": "Udon Noodles (Cooked)",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 96,
+    "protein": 2.7,
+    "carbs": 20.5,
+    "fat": 0.5,
+    "category": "Japanese"
+  },
+  {
+    "name": "Bibimbap",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 125,
+    "protein": 5.8,
+    "carbs": 19.5,
+    "fat": 3.2,
+    "category": "Korean"
+  },
+  {
+    "name": "Kimchi",
+    "icon": "🥬",
+    "unit": "100g",
+    "calories": 15,
+    "protein": 1.1,
+    "carbs": 2.4,
+    "fat": 0.5,
+    "category": "Korean"
+  },
+  {
+    "name": "Korean Fried Chicken",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 280,
+    "protein": 22.0,
+    "carbs": 16.0,
+    "fat": 14.0,
+    "category": "Korean"
+  },
+  {
+    "name": "Japchae (Glass Noodles)",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 135,
+    "protein": 2.8,
+    "carbs": 24.5,
+    "fat": 3.5,
+    "category": "Korean"
+  },
+  {
+    "name": "Bulgogi (Beef)",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 218,
+    "protein": 22.0,
+    "carbs": 9.0,
+    "fat": 10.5,
+    "category": "Korean"
+  },
+  {
+    "name": "Doenjang Jjigae (Soybean Paste Stew)",
+    "icon": "🍲",
+    "unit": "100g",
+    "calories": 65,
+    "protein": 4.5,
+    "carbs": 5.0,
+    "fat": 2.5,
+    "category": "Korean"
+  },
+  {
+    "name": "Tteokbokki (Rice Cakes)",
+    "icon": "🍢",
+    "unit": "100g",
+    "calories": 144,
+    "protein": 3.0,
+    "carbs": 30.0,
+    "fat": 1.5,
+    "category": "Korean"
+  },
+  {
+    "name": "Pad Thai",
+    "icon": "🍜",
+    "unit": "100g",
+    "calories": 164,
+    "protein": 8.5,
+    "carbs": 22.0,
+    "fat": 5.5,
+    "category": "Thai"
+  },
+  {
+    "name": "Green Curry (Chicken)",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 152,
+    "protein": 10.0,
+    "carbs": 7.5,
+    "fat": 9.0,
+    "category": "Thai"
+  },
+  {
+    "name": "Red Curry (Beef)",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 168,
+    "protein": 11.5,
+    "carbs": 7.0,
+    "fat": 10.5,
+    "category": "Thai"
+  },
+  {
+    "name": "Tom Yum Soup",
+    "icon": "🍵",
+    "unit": "100g",
+    "calories": 55,
+    "protein": 4.0,
+    "carbs": 5.5,
+    "fat": 2.0,
+    "category": "Thai"
+  },
+  {
+    "name": "Som Tum (Papaya Salad)",
+    "icon": "🥗",
+    "unit": "100g",
+    "calories": 42,
+    "protein": 1.5,
+    "carbs": 8.5,
+    "fat": 0.8,
+    "category": "Thai"
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 197,
+    "protein": 2.5,
+    "carbs": 42.0,
+    "fat": 3.5,
+    "category": "Thai"
+  },
+  {
+    "name": "Thai Basil Chicken (Pad Krapao)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 157,
+    "protein": 14.0,
+    "carbs": 8.0,
+    "fat": 7.5,
+    "category": "Thai"
+  },
+  {
+    "name": "Massaman Curry",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 178,
+    "protein": 9.5,
+    "carbs": 12.0,
+    "fat": 10.5,
+    "category": "Thai"
+  },
+  {
+    "name": "Hummus",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 166,
+    "protein": 7.9,
+    "carbs": 14.3,
+    "fat": 9.6,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Falafel (Fried)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 333,
+    "protein": 13.3,
+    "carbs": 31.8,
+    "fat": 17.8,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Falafel (Baked)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 9.0,
+    "carbs": 24.0,
+    "fat": 6.0,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Shawarma (Chicken)",
+    "icon": "🌯",
+    "unit": "100g",
+    "calories": 188,
+    "protein": 14.5,
+    "carbs": 18.5,
+    "fat": 6.5,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Shawarma (Beef)",
+    "icon": "🌯",
+    "unit": "100g",
+    "calories": 215,
+    "protein": 16.0,
+    "carbs": 19.0,
+    "fat": 8.0,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Kebab (Chicken Seekh)",
+    "icon": "🍢",
+    "unit": "100g",
+    "calories": 196,
+    "protein": 21.0,
+    "carbs": 6.5,
+    "fat": 9.5,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Kebab (Mutton Seekh)",
+    "icon": "🍢",
+    "unit": "100g",
+    "calories": 253,
+    "protein": 19.5,
+    "carbs": 5.0,
+    "fat": 17.5,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Pita Bread",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 275,
+    "protein": 9.1,
+    "carbs": 55.7,
+    "fat": 1.2,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Tzatziki",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 54,
+    "protein": 3.0,
+    "carbs": 3.5,
+    "fat": 3.0,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Greek Salad",
+    "icon": "🥗",
+    "unit": "100g",
+    "calories": 74,
+    "protein": 2.0,
+    "carbs": 4.5,
+    "fat": 5.5,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Baba Ganoush",
+    "icon": "🍆",
+    "unit": "100g",
+    "calories": 74,
+    "protein": 2.5,
+    "carbs": 8.6,
+    "fat": 3.8,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Tabbouleh",
+    "icon": "🌿",
+    "unit": "100g",
+    "calories": 72,
+    "protein": 2.5,
+    "carbs": 12.5,
+    "fat": 2.0,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Foul Medames",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 110,
+    "protein": 7.5,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Shakshuka (2 eggs)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 95,
+    "protein": 6.0,
+    "carbs": 6.5,
+    "fat": 5.0,
+    "category": "Mediterranean"
+  },
+  {
+    "name": "Pasta (Dry)",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 371,
+    "protein": 13.0,
+    "carbs": 74.7,
+    "fat": 1.5,
+    "category": "Italian"
+  },
+  {
+    "name": "Pasta (Cooked, plain)",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 131,
+    "protein": 5.0,
+    "carbs": 25.1,
+    "fat": 1.1,
+    "category": "Italian"
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 142,
+    "protein": 10.5,
+    "carbs": 15.0,
+    "fat": 5.0,
+    "category": "Italian"
+  },
+  {
+    "name": "Carbonara",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 198,
+    "protein": 10.5,
+    "carbs": 22.0,
+    "fat": 7.5,
+    "category": "Italian"
+  },
+  {
+    "name": "Lasagna",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 135,
+    "protein": 8.5,
+    "carbs": 13.0,
+    "fat": 5.0,
+    "category": "Italian"
+  },
+  {
+    "name": "Pizza Margherita",
+    "icon": "🍕",
+    "unit": "100g",
+    "calories": 250,
+    "protein": 10.5,
+    "carbs": 32.0,
+    "fat": 9.5,
+    "category": "Italian"
+  },
+  {
+    "name": "Pizza Pepperoni",
+    "icon": "🍕",
+    "unit": "100g",
+    "calories": 297,
+    "protein": 12.0,
+    "carbs": 34.0,
+    "fat": 13.0,
+    "category": "Italian"
+  },
+  {
+    "name": "Risotto",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 166,
+    "protein": 4.5,
+    "carbs": 29.5,
+    "fat": 3.5,
+    "category": "Italian"
+  },
+  {
+    "name": "Gnocchi",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 170,
+    "protein": 3.8,
+    "carbs": 36.5,
+    "fat": 0.9,
+    "category": "Italian"
+  },
+  {
+    "name": "Taco (Chicken)",
+    "icon": "🌮",
+    "unit": "100g",
+    "calories": 175,
+    "protein": 12.0,
+    "carbs": 16.5,
+    "fat": 6.5,
+    "category": "Mexican"
+  },
+  {
+    "name": "Burrito (Beef & Bean)",
+    "icon": "🌯",
+    "unit": "100g",
+    "calories": 163,
+    "protein": 8.5,
+    "carbs": 19.5,
+    "fat": 5.5,
+    "category": "Mexican"
+  },
+  {
+    "name": "Guacamole",
+    "icon": "🥑",
+    "unit": "100g",
+    "calories": 160,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 14.7,
+    "category": "Mexican"
+  },
+  {
+    "name": "Nachos with Cheese",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 306,
+    "protein": 6.0,
+    "carbs": 36.5,
+    "fat": 15.5,
+    "category": "Mexican"
+  },
+  {
+    "name": "Quesadilla (Chicken)",
+    "icon": "🌮",
+    "unit": "100g",
+    "calories": 215,
+    "protein": 13.0,
+    "carbs": 18.5,
+    "fat": 9.0,
+    "category": "Mexican"
+  },
+  {
+    "name": "Corn Tortilla",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 218,
+    "protein": 5.7,
+    "carbs": 45.9,
+    "fat": 2.6,
+    "category": "Mexican"
+  },
+  {
+    "name": "Refried Beans",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 100,
+    "protein": 5.5,
+    "carbs": 15.0,
+    "fat": 2.0,
+    "category": "Mexican"
+  },
+  {
+    "name": "Burger (Chicken)",
+    "icon": "🍔",
+    "unit": "100g",
+    "calories": 252,
+    "protein": 13.5,
+    "carbs": 24.0,
+    "fat": 11.5,
+    "category": "Western"
+  },
+  {
+    "name": "Burger (Beef / Veg)",
+    "icon": "🍔",
+    "unit": "100g",
+    "calories": 295,
+    "protein": 16.0,
+    "carbs": 24.0,
+    "fat": 14.5,
+    "category": "Western"
+  },
+  {
+    "name": "Hot Dog",
+    "icon": "🌭",
+    "unit": "100g",
+    "calories": 290,
+    "protein": 10.5,
+    "carbs": 24.5,
+    "fat": 16.5,
+    "category": "Western"
+  },
+  {
+    "name": "French Fries",
+    "icon": "🍟",
+    "unit": "100g",
+    "calories": 312,
+    "protein": 3.4,
+    "carbs": 41.4,
+    "fat": 14.9,
+    "category": "Western"
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "icon": "🥪",
+    "unit": "100g",
+    "calories": 188,
+    "protein": 16.5,
+    "carbs": 20.0,
+    "fat": 5.0,
+    "category": "Western"
+  },
+  {
+    "name": "Caesar Salad",
+    "icon": "🥗",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 4.5,
+    "carbs": 5.0,
+    "fat": 6.5,
+    "category": "Western"
+  },
+  {
+    "name": "Mac & Cheese",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 172,
+    "protein": 6.2,
+    "carbs": 18.5,
+    "fat": 8.3,
+    "category": "Western"
+  },
+  {
+    "name": "BBQ Ribs",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 277,
+    "protein": 20.0,
+    "carbs": 11.5,
+    "fat": 17.5,
+    "category": "Western"
+  },
+  {
+    "name": "Pancakes (Plain)",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 227,
+    "protein": 6.4,
+    "carbs": 28.3,
+    "fat": 10.0,
+    "category": "Western"
+  },
+  {
+    "name": "Waffle",
+    "icon": "🧇",
+    "unit": "100g",
+    "calories": 291,
+    "protein": 7.9,
+    "carbs": 36.5,
+    "fat": 13.0,
+    "category": "Western"
+  },
+  {
+    "name": "Omelette (2 eggs, plain)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 154,
+    "protein": 10.5,
+    "carbs": 1.5,
+    "fat": 12.0,
+    "category": "Western"
+  },
+  {
+    "name": "Scrambled Eggs (butter)",
+    "icon": "🥚",
+    "unit": "100g",
+    "calories": 149,
+    "protein": 9.9,
+    "carbs": 2.2,
+    "fat": 11.1,
+    "category": "Western"
+  },
+  {
+    "name": "Aloo Paratha",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 261,
+    "protein": 6.2,
+    "carbs": 38.5,
+    "fat": 9.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Methi Paratha",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 230,
+    "protein": 6.5,
+    "carbs": 35.0,
+    "fat": 8.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Paneer Paratha",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 280,
+    "protein": 9.5,
+    "carbs": 35.0,
+    "fat": 11.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Stuffed Kulcha",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 275,
+    "protein": 7.5,
+    "carbs": 42.0,
+    "fat": 9.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Bhatura",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 318,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fat": 12.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Pav Bhaji",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 152,
+    "protein": 4.5,
+    "carbs": 22.0,
+    "fat": 5.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Misal Pav",
+    "icon": "🍲",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 7.0,
+    "carbs": 20.0,
+    "fat": 4.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Dhokla",
+    "icon": "🟡",
+    "unit": "100g",
+    "calories": 160,
+    "protein": 6.5,
+    "carbs": 24.0,
+    "fat": 4.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Khandvi",
+    "icon": "🟡",
+    "unit": "100g",
+    "calories": 142,
+    "protein": 6.0,
+    "carbs": 20.0,
+    "fat": 4.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Raita (Plain)",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 45,
+    "protein": 2.5,
+    "carbs": 4.0,
+    "fat": 1.8,
+    "category": "Indian"
+  },
+  {
+    "name": "Boondi Raita",
+    "icon": "🥛",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 3.5,
+    "carbs": 11.0,
+    "fat": 3.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Aloo Sabzi",
+    "icon": "🥔",
+    "unit": "100g",
+    "calories": 102,
+    "protein": 2.2,
+    "carbs": 15.0,
+    "fat": 4.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Matar Paneer",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 172,
+    "protein": 8.5,
+    "carbs": 12.0,
+    "fat": 10.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Palak Paneer",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 140,
+    "protein": 8.0,
+    "carbs": 9.5,
+    "fat": 8.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Shahi Paneer",
+    "icon": "🧀",
+    "unit": "100g",
+    "calories": 220,
+    "protein": 10.0,
+    "carbs": 12.0,
+    "fat": 15.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Aloo Gobi",
+    "icon": "🥔",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 2.5,
+    "carbs": 12.0,
+    "fat": 4.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Baingan Bharta",
+    "icon": "🍆",
+    "unit": "100g",
+    "calories": 85,
+    "protein": 2.5,
+    "carbs": 9.5,
+    "fat": 4.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Butter Chicken (Murgh Makhani)",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 180,
+    "protein": 15.0,
+    "carbs": 8.0,
+    "fat": 10.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 165,
+    "protein": 16.0,
+    "carbs": 7.5,
+    "fat": 8.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Rogan Josh",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 193,
+    "protein": 15.5,
+    "carbs": 6.5,
+    "fat": 12.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Nihari",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 182,
+    "protein": 14.5,
+    "carbs": 5.0,
+    "fat": 12.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Haleem",
+    "icon": "🍲",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 11.0,
+    "carbs": 12.0,
+    "fat": 6.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Seekh Kebab (Chicken)",
+    "icon": "🍢",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 19.5,
+    "carbs": 5.0,
+    "fat": 9.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 160,
+    "protein": 24.5,
+    "carbs": 4.5,
+    "fat": 5.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Chicken Tikka",
+    "icon": "🍗",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 26.5,
+    "carbs": 5.0,
+    "fat": 7.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Fish Tikka",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 145,
+    "protein": 22.0,
+    "carbs": 4.5,
+    "fat": 4.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Biryani Rice (plain)",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 150,
+    "protein": 3.5,
+    "carbs": 31.0,
+    "fat": 2.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Khichdi",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 118,
+    "protein": 4.5,
+    "carbs": 20.5,
+    "fat": 2.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Pulao",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fat": 3.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Samosa (Veg)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 262,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fat": 13.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Samosa (Chicken)",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 275,
+    "protein": 10.0,
+    "carbs": 30.0,
+    "fat": 13.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Pakora (Veg)",
+    "icon": "🧅",
+    "unit": "100g",
+    "calories": 240,
+    "protein": 6.0,
+    "carbs": 30.0,
+    "fat": 11.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Besan Cheela",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 195,
+    "protein": 9.5,
+    "carbs": 26.0,
+    "fat": 5.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Poha",
+    "icon": "🍚",
+    "unit": "100g",
+    "calories": 130,
+    "protein": 3.5,
+    "carbs": 24.0,
+    "fat": 3.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Vermicelli / Semiya Upma",
+    "icon": "🍝",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fat": 3.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Halwa (Suji/Semolina)",
+    "icon": "🍮",
+    "unit": "100g",
+    "calories": 243,
+    "protein": 4.0,
+    "carbs": 38.5,
+    "fat": 9.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Payasam / Kheer",
+    "icon": "🍮",
+    "unit": "100g",
+    "calories": 148,
+    "protein": 4.5,
+    "carbs": 24.0,
+    "fat": 4.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Gulab Jamun",
+    "icon": "🍬",
+    "unit": "100g",
+    "calories": 387,
+    "protein": 5.5,
+    "carbs": 72.5,
+    "fat": 10.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Jalebi",
+    "icon": "🍬",
+    "unit": "100g",
+    "calories": 449,
+    "protein": 2.0,
+    "carbs": 74.5,
+    "fat": 17.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Ladoo (Besan)",
+    "icon": "🍬",
+    "unit": "100g",
+    "calories": 461,
+    "protein": 8.5,
+    "carbs": 56.0,
+    "fat": 23.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Barfi (Milk)",
+    "icon": "🍬",
+    "unit": "100g",
+    "calories": 399,
+    "protein": 9.0,
+    "carbs": 57.0,
+    "fat": 16.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Lassi (Sweet)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 110,
+    "protein": 4.0,
+    "carbs": 18.5,
+    "fat": 2.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Lassi (Salted)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 55,
+    "protein": 3.5,
+    "carbs": 6.0,
+    "fat": 2.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Chaas (Spiced Buttermilk)",
+    "icon": "🥛",
+    "unit": "100ml",
+    "calories": 30,
+    "protein": 1.8,
+    "carbs": 3.5,
+    "fat": 0.9,
+    "category": "Indian"
+  },
+  {
+    "name": "Masala Chai (with milk)",
+    "icon": "☕",
+    "unit": "100ml",
+    "calories": 47,
+    "protein": 1.8,
+    "carbs": 7.0,
+    "fat": 1.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Filter Coffee (with milk)",
+    "icon": "☕",
+    "unit": "100ml",
+    "calories": 52,
+    "protein": 2.0,
+    "carbs": 7.5,
+    "fat": 2.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Coconut Chutney",
+    "icon": "🥥",
+    "unit": "100g",
+    "calories": 185,
+    "protein": 2.5,
+    "carbs": 8.0,
+    "fat": 16.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Mint Chutney",
+    "icon": "🌿",
+    "unit": "100g",
+    "calories": 55,
+    "protein": 2.5,
+    "carbs": 9.0,
+    "fat": 0.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Tamarind Chutney",
+    "icon": "🍯",
+    "unit": "100g",
+    "calories": 260,
+    "protein": 1.5,
+    "carbs": 64.0,
+    "fat": 0.5,
+    "category": "Indian"
+  },
+  {
+    "name": "Pickle (Mixed Veg)",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 10.0,
+    "fat": 5.0,
+    "category": "Indian"
+  },
+  {
+    "name": "Neer Dosa",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 106,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fat": 0.8,
+    "category": "Kerala"
+  },
+  {
+    "name": "Vellayappam",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 3.5,
+    "carbs": 31.0,
+    "fat": 2.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kallappam",
+    "icon": "🥞",
+    "unit": "100g",
+    "calories": 170,
+    "protein": 3.8,
+    "carbs": 34.0,
+    "fat": 3.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Malabar Parotta",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 310,
+    "protein": 7.0,
+    "carbs": 45.0,
+    "fat": 11.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Wheat Parotta",
+    "icon": "🫓",
+    "unit": "100g",
+    "calories": 265,
+    "protein": 7.5,
+    "carbs": 40.0,
+    "fat": 9.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Malabar Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 195,
+    "protein": 12.0,
+    "carbs": 27.0,
+    "fat": 5.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kozhikodan Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 198,
+    "protein": 13.5,
+    "carbs": 26.5,
+    "fat": 5.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Thalassery Biryani",
+    "icon": "🍛",
+    "unit": "100g",
+    "calories": 200,
+    "protein": 14.0,
+    "carbs": 27.0,
+    "fat": 5.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Beef Ularthiyathu",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 230,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fat": 14.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Pork Fry Kerala",
+    "icon": "🥩",
+    "unit": "100g",
+    "calories": 278,
+    "protein": 22.0,
+    "carbs": 5.0,
+    "fat": 19.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Duck Roast Kerala",
+    "icon": "🦆",
+    "unit": "100g",
+    "calories": 242,
+    "protein": 20.0,
+    "carbs": 7.5,
+    "fat": 15.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Fish Molee",
+    "icon": "🐟",
+    "unit": "100g",
+    "calories": 130,
+    "protein": 14.5,
+    "carbs": 5.0,
+    "fat": 6.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Prawn Theeyal",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 165,
+    "protein": 12.5,
+    "carbs": 12.0,
+    "fat": 8.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Mussel Fry / Kallumakkaya Fry",
+    "icon": "🦪",
+    "unit": "100g",
+    "calories": 168,
+    "protein": 14.0,
+    "carbs": 8.0,
+    "fat": 9.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Clam Fry / Kakka Fry",
+    "icon": "🦪",
+    "unit": "100g",
+    "calories": 145,
+    "protein": 12.5,
+    "carbs": 7.0,
+    "fat": 7.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Crab Roast / Njandu Roast",
+    "icon": "🦀",
+    "unit": "100g",
+    "calories": 152,
+    "protein": 18.5,
+    "carbs": 5.0,
+    "fat": 6.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kootu Curry",
+    "icon": "🥘",
+    "unit": "100g",
+    "calories": 132,
+    "protein": 4.5,
+    "carbs": 16.5,
+    "fat": 6.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Cherupayar Curry (Green Moong)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 115,
+    "protein": 7.5,
+    "carbs": 16.5,
+    "fat": 2.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Chemmeen Theeyal",
+    "icon": "🦐",
+    "unit": "100g",
+    "calories": 178,
+    "protein": 14.0,
+    "carbs": 13.0,
+    "fat": 8.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Uzhunnu Vada",
+    "icon": "🍩",
+    "unit": "100g",
+    "calories": 280,
+    "protein": 9.0,
+    "carbs": 34.0,
+    "fat": 13.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Parippu Vada",
+    "icon": "🍩",
+    "unit": "100g",
+    "calories": 295,
+    "protein": 9.5,
+    "carbs": 36.0,
+    "fat": 14.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Kozhukatta",
+    "icon": "🍡",
+    "unit": "100g",
+    "calories": 180,
+    "protein": 3.0,
+    "carbs": 38.0,
+    "fat": 2.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Ada Pradhaman",
+    "icon": "🍮",
+    "unit": "100g",
+    "calories": 195,
+    "protein": 3.0,
+    "carbs": 38.0,
+    "fat": 5.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Palada Payasam",
+    "icon": "🍮",
+    "unit": "100g",
+    "calories": 172,
+    "protein": 4.5,
+    "carbs": 30.0,
+    "fat": 4.5,
+    "category": "Kerala"
+  },
+  {
+    "name": "Pazham Nurukku (Banana Snack)",
+    "icon": "🍌",
+    "unit": "100g",
+    "calories": 132,
+    "protein": 1.2,
+    "carbs": 32.0,
+    "fat": 0.8,
+    "category": "Kerala"
+  },
+  {
+    "name": "Pazham Pori (Banana Fritter)",
+    "icon": "🍌",
+    "unit": "100g",
+    "calories": 215,
+    "protein": 2.5,
+    "carbs": 35.0,
+    "fat": 8.0,
+    "category": "Kerala"
+  },
+  {
+    "name": "Almonds (Raw)",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 579,
+    "protein": 21.2,
+    "carbs": 21.7,
+    "fat": 49.9,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Almonds (Soaked)",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 570,
+    "protein": 20.5,
+    "carbs": 21.5,
+    "fat": 49.0,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Cashews (Raw)",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 553,
+    "protein": 18.2,
+    "carbs": 30.2,
+    "fat": 43.8,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Walnuts",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 654,
+    "protein": 15.2,
+    "carbs": 13.7,
+    "fat": 65.2,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Peanuts (Raw)",
+    "icon": "🥜",
+    "unit": "100g",
+    "calories": 567,
+    "protein": 25.8,
+    "carbs": 16.1,
+    "fat": 49.2,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Peanuts (Roasted)",
+    "icon": "🥜",
+    "unit": "100g",
+    "calories": 585,
+    "protein": 23.7,
+    "carbs": 21.5,
+    "fat": 49.7,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Peanut Butter (Natural)",
+    "icon": "🥜",
+    "unit": "100g",
+    "calories": 588,
+    "protein": 25.1,
+    "carbs": 20.1,
+    "fat": 50.4,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Pistachios",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 562,
+    "protein": 20.2,
+    "carbs": 27.2,
+    "fat": 45.3,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Hazelnuts",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 628,
+    "protein": 15.0,
+    "carbs": 16.7,
+    "fat": 60.8,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Macadamia Nuts",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 718,
+    "protein": 7.9,
+    "carbs": 13.8,
+    "fat": 75.8,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Pecans",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 691,
+    "protein": 9.2,
+    "carbs": 13.9,
+    "fat": 72.0,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Brazil Nuts",
+    "icon": "🌰",
+    "unit": "100g",
+    "calories": 656,
+    "protein": 14.3,
+    "carbs": 11.7,
+    "fat": 66.4,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Chia Seeds",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 486,
+    "protein": 16.5,
+    "carbs": 42.1,
+    "fat": 30.7,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Flaxseeds",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 534,
+    "protein": 18.3,
+    "carbs": 28.9,
+    "fat": 42.2,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 584,
+    "protein": 20.8,
+    "carbs": 20.0,
+    "fat": 51.5,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 559,
+    "protein": 30.2,
+    "carbs": 10.7,
+    "fat": 49.1,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Sesame Seeds",
+    "icon": "🌱",
+    "unit": "100g",
+    "calories": 573,
+    "protein": 17.7,
+    "carbs": 23.5,
+    "fat": 49.7,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Raisins",
+    "icon": "🍇",
+    "unit": "100g",
+    "calories": 299,
+    "protein": 3.1,
+    "carbs": 79.2,
+    "fat": 0.5,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Dry Dates (Khajoor)",
+    "icon": "🌴",
+    "unit": "100g",
+    "calories": 282,
+    "protein": 2.5,
+    "carbs": 75.0,
+    "fat": 0.4,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Anjeer (Dried Fig)",
+    "icon": "🍈",
+    "unit": "100g",
+    "calories": 249,
+    "protein": 3.3,
+    "carbs": 63.9,
+    "fat": 0.9,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Apricot (Dried)",
+    "icon": "🍑",
+    "unit": "100g",
+    "calories": 241,
+    "protein": 3.4,
+    "carbs": 62.6,
+    "fat": 0.5,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Prunes",
+    "icon": "🍑",
+    "unit": "100g",
+    "calories": 240,
+    "protein": 2.2,
+    "carbs": 63.9,
+    "fat": 0.4,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Coconut (Fresh, grated)",
+    "icon": "🥥",
+    "unit": "100g",
+    "calories": 354,
+    "protein": 3.3,
+    "carbs": 15.2,
+    "fat": 33.5,
+    "category": "Nuts & Seeds"
+  },
+  {
+    "name": "Chickpeas (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 364,
+    "protein": 19.3,
+    "carbs": 60.7,
+    "fat": 6.0,
+    "category": "Legumes"
+  },
+  {
+    "name": "Chickpeas (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 164,
+    "protein": 8.9,
+    "carbs": 27.4,
+    "fat": 2.6,
+    "category": "Legumes"
+  },
+  {
+    "name": "Black Beans (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 132,
+    "protein": 8.9,
+    "carbs": 23.7,
+    "fat": 0.5,
+    "category": "Legumes"
+  },
+  {
+    "name": "Kidney Beans (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 127,
+    "protein": 8.7,
+    "carbs": 22.8,
+    "fat": 0.5,
+    "category": "Legumes"
+  },
+  {
+    "name": "Lentils / Masoor Dal (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 353,
+    "protein": 25.8,
+    "carbs": 60.1,
+    "fat": 1.1,
+    "category": "Legumes"
+  },
+  {
+    "name": "Lentils (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 116,
+    "protein": 9.0,
+    "carbs": 20.1,
+    "fat": 0.4,
+    "category": "Legumes"
+  },
+  {
+    "name": "Moong Dal (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 347,
+    "protein": 23.9,
+    "carbs": 62.6,
+    "fat": 1.2,
+    "category": "Legumes"
+  },
+  {
+    "name": "Moong Dal (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 105,
+    "protein": 7.0,
+    "carbs": 19.2,
+    "fat": 0.4,
+    "category": "Legumes"
+  },
+  {
+    "name": "Toor Dal (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 343,
+    "protein": 22.3,
+    "carbs": 62.7,
+    "fat": 1.5,
+    "category": "Legumes"
+  },
+  {
+    "name": "Toor Dal (Boiled)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 116,
+    "protein": 8.0,
+    "carbs": 20.5,
+    "fat": 0.6,
+    "category": "Legumes"
+  },
+  {
+    "name": "Chana Dal (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 364,
+    "protein": 20.5,
+    "carbs": 61.5,
+    "fat": 5.5,
+    "category": "Legumes"
+  },
+  {
+    "name": "Urad Dal (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 341,
+    "protein": 25.2,
+    "carbs": 59.6,
+    "fat": 1.6,
+    "category": "Legumes"
+  },
+  {
+    "name": "Peas (Dried)",
+    "icon": "🫛",
+    "unit": "100g",
+    "calories": 341,
+    "protein": 24.5,
+    "carbs": 60.4,
+    "fat": 1.1,
+    "category": "Legumes"
+  },
+  {
+    "name": "Soybean (Raw)",
+    "icon": "🫘",
+    "unit": "100g",
+    "calories": 446,
+    "protein": 36.5,
+    "carbs": 30.2,
+    "fat": 19.9,
+    "category": "Legumes"
+  },
+  {
+    "name": "Black Coffee (No sugar)",
+    "icon": "☕",
+    "unit": "100ml",
+    "calories": 2,
+    "protein": 0.3,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Coffee with Sugar (1 tsp)",
+    "icon": "☕",
+    "unit": "100ml",
+    "calories": 22,
+    "protein": 0.3,
+    "carbs": 4.9,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Green Tea",
+    "icon": "🍵",
+    "unit": "100ml",
+    "calories": 1,
+    "protein": 0.2,
+    "carbs": 0.2,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Black Tea (No sugar)",
+    "icon": "🍵",
+    "unit": "100ml",
+    "calories": 1,
+    "protein": 0.0,
+    "carbs": 0.2,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Coconut Water",
+    "icon": "🥥",
+    "unit": "100ml",
+    "calories": 19,
+    "protein": 0.7,
+    "carbs": 3.7,
+    "fat": 0.2,
+    "category": "Beverages"
+  },
+  {
+    "name": "Orange Juice (Fresh)",
+    "icon": "🍊",
+    "unit": "100ml",
+    "calories": 45,
+    "protein": 0.7,
+    "carbs": 10.4,
+    "fat": 0.2,
+    "category": "Beverages"
+  },
+  {
+    "name": "Apple Juice",
+    "icon": "🍎",
+    "unit": "100ml",
+    "calories": 46,
+    "protein": 0.1,
+    "carbs": 11.3,
+    "fat": 0.1,
+    "category": "Beverages"
+  },
+  {
+    "name": "Sugarcane Juice",
+    "icon": "🥤",
+    "unit": "100ml",
+    "calories": 73,
+    "protein": 0.4,
+    "carbs": 18.9,
+    "fat": 0.1,
+    "category": "Beverages"
+  },
+  {
+    "name": "Lemon Water (No sugar)",
+    "icon": "🍋",
+    "unit": "100ml",
+    "calories": 4,
+    "protein": 0.1,
+    "carbs": 1.0,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Protein Shake (Whey, water)",
+    "icon": "💪",
+    "unit": "100ml",
+    "calories": 47,
+    "protein": 7.5,
+    "carbs": 3.5,
+    "fat": 0.5,
+    "category": "Beverages"
+  },
+  {
+    "name": "Whole Milk (200ml)",
+    "icon": "🥛",
+    "unit": "200ml",
+    "calories": 122,
+    "protein": 6.4,
+    "carbs": 9.6,
+    "fat": 6.6,
+    "category": "Beverages"
+  },
+  {
+    "name": "Toned Milk (200ml)",
+    "icon": "🥛",
+    "unit": "200ml",
+    "calories": 88,
+    "protein": 6.0,
+    "carbs": 9.2,
+    "fat": 3.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Skimmed Milk (200ml)",
+    "icon": "🥛",
+    "unit": "200ml",
+    "calories": 70,
+    "protein": 7.0,
+    "carbs": 10.0,
+    "fat": 0.2,
+    "category": "Beverages"
+  },
+  {
+    "name": "Sports Drink (Gatorade 500ml)",
+    "icon": "🔵",
+    "unit": "500ml",
+    "calories": 130,
+    "protein": 0.0,
+    "carbs": 34.0,
+    "fat": 0.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Tender Coconut Water (full)",
+    "icon": "🥥",
+    "unit": "250ml",
+    "calories": 48,
+    "protein": 1.8,
+    "carbs": 9.3,
+    "fat": 0.5,
+    "category": "Beverages"
+  },
+  {
+    "name": "Biscuit (Marie)",
+    "icon": "🍪",
+    "unit": "100g",
+    "calories": 410,
+    "protein": 7.5,
+    "carbs": 74.5,
+    "fat": 9.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Biscuit (Digestive)",
+    "icon": "🍪",
+    "unit": "100g",
+    "calories": 471,
+    "protein": 6.5,
+    "carbs": 65.0,
+    "fat": 20.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Chips (Potato)",
+    "icon": "🥔",
+    "unit": "100g",
+    "calories": 536,
+    "protein": 7.0,
+    "carbs": 53.0,
+    "fat": 35.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Popcorn (Plain)",
+    "icon": "🍿",
+    "unit": "100g",
+    "calories": 375,
+    "protein": 11.0,
+    "carbs": 74.0,
+    "fat": 4.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Popcorn (Butter)",
+    "icon": "🍿",
+    "unit": "100g",
+    "calories": 456,
+    "protein": 7.5,
+    "carbs": 51.0,
+    "fat": 27.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Granola Bar",
+    "icon": "🌾",
+    "unit": "100g",
+    "calories": 471,
+    "protein": 8.3,
+    "carbs": 64.3,
+    "fat": 21.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Dark Chocolate (70%+)",
+    "icon": "🍫",
+    "unit": "100g",
+    "calories": 598,
+    "protein": 7.8,
+    "carbs": 45.8,
+    "fat": 42.6,
+    "category": "Snacks"
+  },
+  {
+    "name": "Milk Chocolate",
+    "icon": "🍫",
+    "unit": "100g",
+    "calories": 535,
+    "protein": 7.7,
+    "carbs": 59.4,
+    "fat": 29.7,
+    "category": "Snacks"
+  },
+  {
+    "name": "Ice Cream (Vanilla)",
+    "icon": "🍨",
+    "unit": "100g",
+    "calories": 207,
+    "protein": 3.5,
+    "carbs": 24.0,
+    "fat": 11.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Dahi Puri",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 145,
+    "protein": 4.5,
+    "carbs": 24.5,
+    "fat": 4.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Pani Puri",
+    "icon": "🥟",
+    "unit": "100g",
+    "calories": 130,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fat": 4.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Bhel Puri",
+    "icon": "🥙",
+    "unit": "100g",
+    "calories": 155,
+    "protein": 4.5,
+    "carbs": 28.0,
+    "fat": 4.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Murukku",
+    "icon": "🌀",
+    "unit": "100g",
+    "calories": 489,
+    "protein": 8.5,
+    "carbs": 62.0,
+    "fat": 24.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Chakli",
+    "icon": "🌀",
+    "unit": "100g",
+    "calories": 472,
+    "protein": 8.0,
+    "carbs": 58.0,
+    "fat": 23.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Mixture (Bombay)",
+    "icon": "🥜",
+    "unit": "100g",
+    "calories": 517,
+    "protein": 14.0,
+    "carbs": 52.0,
+    "fat": 29.5,
+    "category": "Snacks"
+  },
+  {
+    "name": "Coconut Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 862,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Sunflower Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Olive Oil (Extra Virgin)",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Groundnut / Peanut Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Mustard Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Rice Bran Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Sesame Oil",
+    "icon": "🫙",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  },
+  {
+    "name": "Avocado Oil",
+    "icon": "🥑",
+    "unit": "100g",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "category": "Oils"
+  }
+]
