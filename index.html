@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Food Database</title>
+<style>
+body {font-family: Arial; background:#0b0f1a; color:white;}
+.search-box {padding:15px;}
+.search-box input {
+  width:100%; padding:12px; border-radius:10px;
+  border:2px solid #d4ff00; background:#111; color:white;
+}
+.food-row {display:flex; align-items:center; padding:12px; border-bottom:1px solid #2a2a40;}
+.food-icon {font-size:22px; width:40px;}
+.food-info {flex:1;}
+.food-name {font-weight:bold;}
+.food-macro {font-size:11px; color:#aaa;}
+.food-cal {color:#ff7b5c; font-weight:bold;}
+</style>
+</head>
+<body>
+
+<div class="search-box">
+<input type="text" placeholder="Search food..." onkeyup="searchFood(this.value)">
+</div>
+
+<div id="foodList"></div>
+
+<script>
+let foodDB = [];
+
+async function loadFoodDatabase() {
+  const response = await fetch("foods.json");
+  foodDB = await response.json();
+  renderFoodList(foodDB);
+}
+
+function renderFoodList(list) {
+  const foodList = document.getElementById("foodList");
+  foodList.innerHTML = "";
+  list.forEach(food => {
+    const div = document.createElement("div");
+    div.className = "food-row";
+    div.innerHTML = `
+      <div class="food-icon">${food.icon}</div>
+      <div class="food-info">
+        <div class="food-name">${food.name}</div>
+        <div class="food-macro">
+          P:${food.protein}g C:${food.carbs}g F:${food.fat}g • ${food.unit}
+        </div>
+      </div>
+      <div class="food-cal">${food.calories} kcal</div>
+    `;
+    foodList.appendChild(div);
+  });
+}
+
+function searchFood(text) {
+  const filtered = foodDB.filter(f =>
+    f.name.toLowerCase().includes(text.toLowerCase())
+  );
+  renderFoodList(filtered);
+}
+
+loadFoodDatabase();
+</script>
+
+</body>
+</html>
