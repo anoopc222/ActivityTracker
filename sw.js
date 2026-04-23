@@ -35,6 +35,10 @@ self.addEventListener('activate', function(event) {
 
 // Fetch: network-first for HTML (always get latest), cache-first for others
 self.addEventListener('fetch', function(event) {
+  if (event.request.method !== 'GET') {
+    return;
+  }
+
   const url = new URL(event.request.url);
 
   // Always fetch index.html fresh from network so updates are visible
